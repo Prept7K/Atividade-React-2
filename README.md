@@ -1,7 +1,7 @@
 Card de Perfil do GitHub Estilizado
+
 Este projeto é um site web desenvolvido com o template do Vite, utilizando React com TypeScript. Para o gerenciamento de rotas, foi usado o React Router, e a estilização foi feita com TailwindCSS e Styled Components.
 
-Como utilizar o site
 Para utilizar o site, basta seguir estes passos:
 
 Copie o código para a sua IDE de preferência.
